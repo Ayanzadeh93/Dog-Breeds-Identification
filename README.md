@@ -1,7 +1,7 @@
+# Kaggle-dog-breeds-classification
 
 ![border_collies](https://user-images.githubusercontent.com/25509152/33898274-fa96ef88-df78-11e7-8f4c-59105584fdce.png)
 
-# Kaggle-dog-breeds-classification
 This branch is testing branch.
 
 This is the testing branch which will be used for nightly updates.
