@@ -4,7 +4,7 @@
 
 This branch is testing branch.
 
-This is the testing branch which will be used for nightly updates.
+
 
 Scripts in this branch may not be stable.
 
