@@ -40,14 +40,6 @@ In this project Keras library with Tensorflow Backend is used. Thus, in order to
 
 3- After installing all the dependencies. Please download the images of dataset from the link below, unzip the downloaded file and copy the images folder in the folder containing this REDME file.
 
-			https://www.kaggle.com/c/leaf-classification/download/images.zip
-
-3- For running the code please open the Terminal in Linux or Mac OS, or Anaconda Command prompt on windows OS (it can be found on start menu, installed programs):
-
-			* To run the code enter the following command:
-				python LeafClassifer.py
-
-4- The code will start to run and it will take a while depending on how many parameters and layers you defined. After running the code it will show the best model accuracy, and loss, and save two figures one for Model accuracy and one for Model loss based on the number of iterations. The figures can be found in the same folder with this README file. Also, you can see the results and detailed graphs of architecture (on the GRAPHS tab) of the model and what is happening in each layer by entering the following command:
 
 				 tensorboard --logdir=logs
 Now you can navigate to http://127.0.1.1:6006 or http://localhost:6006 on your browser to see the results.
