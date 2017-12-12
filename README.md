@@ -42,5 +42,5 @@ In this project Keras library with Tensorflow Backend is used. Thus, in order to
 
 
 				 tensorboard --logdir=logs
-Now you can navigate to http://127.0.1.1:6006 or http://localhost:6006 on your browser to see the results.
+
 
