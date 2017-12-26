@@ -231,7 +231,7 @@ if __name__ == '__main__':
     batch_size = 8 
     nb_epoch = 10
     
-    directory_path = "/home/aydin/"
+    directory_path = "/home/%your username%/"
 
     print(check_output(["ls", directory_path]).decode("utf8"))
 

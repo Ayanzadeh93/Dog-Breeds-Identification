@@ -232,7 +232,7 @@ if __name__ == '__main__':
     batch_size = 16 
     nb_epoch = 10
     
-    directory_path = "/home/aydin/storage/aydin/kaggle-dog/Kaggle-dog-breeds-classification/cnn_finetune-master/"
+    directory_path = "/home/%your username%/"
     
     print(check_output(["ls", directory_path]).decode("utf8"))
 
