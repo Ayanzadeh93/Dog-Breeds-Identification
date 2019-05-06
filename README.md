@@ -2,10 +2,6 @@
 
 ![border_collies](https://user-images.githubusercontent.com/25509152/33898274-fa96ef88-df78-11e7-8f4c-59105584fdce.png)
 
-This branch is testing branch.
-
-
-
 Scripts in this branch may not be stable.
 
 
@@ -18,6 +14,9 @@ This documents describes how to run the code.
 
 In this project Keras library with Tensorflow Backend is used. Thus, in order to run the code successfully, first, we have to install dependencies.
 
+### Preprint version of the paper is published and you can cite like the below:
+
+#### Ayanzadeh, A.; Vahidnia, S.. Modified Deep Neural Networks for Dog Breeds Identification. Preprints 2018, 2018120232 (doi: 10.20944/preprints201812.0232.v1).
 
 1 - installing dependencies on linux or Mac OS:
 	* Anaconda contains most of the library we need to run over code. Please go to the following link and install anaconda which is described based on your Operating system:
